@@ -1,4 +1,12 @@
 # emoji_work
+仕事やSNSで当たり前のようにemojiを使うようになりました。  
+そんなemojiたちが動き出したら楽しい気持ちになるはずです。  
+  
+高度な技術は持っていないので、せめて再現性のあるものづくりをしようと思います。  
+
+
+
+
 - このページのリンク
   - [https://kagasan.github.io/emoji_work/](https://kagasan.github.io/emoji_work/)
 
