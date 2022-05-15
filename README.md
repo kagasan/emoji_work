@@ -15,7 +15,7 @@
 | poop | <img src='https://user-images.githubusercontent.com/2450046/168466853-0fdb0fdf-263e-49ba-ba79-f854d1d0e79a.png' width='200'> | いちばん好きなemojiを動かしました | [![](https://img.youtube.com/vi/GSf-Xmr6iXg/0.jpg)](https://www.youtube.com/watch?v=GSf-Xmr6iXg) | [poop.svg](https://github.com/kagasan/emoji_work/blob/main/resource/poop/poop.svg) | 
 | bow (6月上旬予定) | <img src='https://user-images.githubusercontent.com/2450046/168466966-f208725b-a5b3-494d-857f-7d0059effa84.png' width='200'> | いちばん使うemojiを作成中です | 準備中 | 準備中 | 
 | pray (6月下旬予定) | 準備中 | よく使うemojiを動かします | 準備中 | 準備中 | 
-| 準備中 (7月中旬予定) | 準備中 | 準備中 | 準備中 | 準備中 | 
+| 準備中 (7月中旬予定) | 準備中 | 過去作品の知見をもとに、表現力高くemojiを動かします | 準備中 | 準備中 | 
 | 準備中 (8月上旬予定) | 準備中 | 準備中 | 準備中 | 準備中 | 
 
 ## おおまかな開発の流れ
